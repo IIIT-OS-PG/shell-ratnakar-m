@@ -6,15 +6,15 @@ Any shell implementation largely involves in initializing the *environment*, *pa
 
 ## Features implemented for this shell implementation
 
-**1.** Regular commands (***ls -al, date, echo etc.***)
-**2.** Builtin commands (***cd, exit***)
-**3.** Multiple Pipes (***|***)
-**4.** Redirection (***>***)
-**5.** History (***history***)
-**6.** Prompt Change (***$*** for regular user and ***#*** for root)
-**7.** Environment variables
-**8.** Init config file (***.myrc***)
-**9.** Default apps mappings for xdg-open (eg: ***mp4***)
+-**1.** Regular commands (***ls -al, date, echo etc.***)
+-**2.** Builtin commands (***cd, exit***)
+-**3.** Multiple Pipes (***|***)
+-**4.** Redirection (***>***)
+-**5.** History (***history***)
+-**6.** Prompt Change (***$*** for regular user and ***#*** for root)
+-**7.** Environment variables
+-**8.** Init config file (***.myrc***)
+-**9.** Default apps mappings for xdg-open (eg: ***mp4***)
 
 ## Executed Testcases
 
